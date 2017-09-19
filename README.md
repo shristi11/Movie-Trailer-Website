@@ -6,6 +6,7 @@
 * Demo
 * Download
 * Usage
+* Copyright and License
 
 
 ## Introduction
@@ -19,3 +20,6 @@ You can download the files for this project ([here](https://github.com/shristi11
 
 ## Usage
 Watch trailers for upcoming movies.
+
+## Copyright and Licence
+* Udacity 
